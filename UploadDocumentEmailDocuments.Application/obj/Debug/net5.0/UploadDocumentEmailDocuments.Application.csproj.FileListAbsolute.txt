@@ -1,0 +1,15 @@
+C:\Users\Ikani Stephen\source\repos\UploadDocumentEmailDocuments\UploadDocumentEmailDocuments.Application\bin\Debug\net5.0\UploadDocumentEmailDocuments.Application.deps.json
+C:\Users\Ikani Stephen\source\repos\UploadDocumentEmailDocuments\UploadDocumentEmailDocuments.Application\bin\Debug\net5.0\UploadDocumentEmailDocuments.Application.dll
+C:\Users\Ikani Stephen\source\repos\UploadDocumentEmailDocuments\UploadDocumentEmailDocuments.Application\bin\Debug\net5.0\ref\UploadDocumentEmailDocuments.Application.dll
+C:\Users\Ikani Stephen\source\repos\UploadDocumentEmailDocuments\UploadDocumentEmailDocuments.Application\bin\Debug\net5.0\UploadDocumentEmailDocuments.Application.pdb
+C:\Users\Ikani Stephen\source\repos\UploadDocumentEmailDocuments\UploadDocumentEmailDocuments.Application\bin\Debug\net5.0\UploadDocumentEmailDocuments.Domain.dll
+C:\Users\Ikani Stephen\source\repos\UploadDocumentEmailDocuments\UploadDocumentEmailDocuments.Application\bin\Debug\net5.0\UploadDocumentEmailDocuments.Domain.pdb
+C:\Users\Ikani Stephen\source\repos\UploadDocumentEmailDocuments\UploadDocumentEmailDocuments.Application\obj\Debug\net5.0\UploadDocumentEmailDocuments.Application.csproj.AssemblyReference.cache
+C:\Users\Ikani Stephen\source\repos\UploadDocumentEmailDocuments\UploadDocumentEmailDocuments.Application\obj\Debug\net5.0\UploadDocumentEmailDocuments.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ikani Stephen\source\repos\UploadDocumentEmailDocuments\UploadDocumentEmailDocuments.Application\obj\Debug\net5.0\UploadDocumentEmailDocuments.Application.AssemblyInfoInputs.cache
+C:\Users\Ikani Stephen\source\repos\UploadDocumentEmailDocuments\UploadDocumentEmailDocuments.Application\obj\Debug\net5.0\UploadDocumentEmailDocuments.Application.AssemblyInfo.cs
+C:\Users\Ikani Stephen\source\repos\UploadDocumentEmailDocuments\UploadDocumentEmailDocuments.Application\obj\Debug\net5.0\UploadDocumentEmailDocuments.Application.csproj.CoreCompileInputs.cache
+C:\Users\Ikani Stephen\source\repos\UploadDocumentEmailDocuments\UploadDocumentEmailDocuments.Application\obj\Debug\net5.0\UploadDocumentEmailDocuments.Application.csproj.CopyComplete
+C:\Users\Ikani Stephen\source\repos\UploadDocumentEmailDocuments\UploadDocumentEmailDocuments.Application\obj\Debug\net5.0\UploadDocumentEmailDocuments.Application.dll
+C:\Users\Ikani Stephen\source\repos\UploadDocumentEmailDocuments\UploadDocumentEmailDocuments.Application\obj\Debug\net5.0\ref\UploadDocumentEmailDocuments.Application.dll
+C:\Users\Ikani Stephen\source\repos\UploadDocumentEmailDocuments\UploadDocumentEmailDocuments.Application\obj\Debug\net5.0\UploadDocumentEmailDocuments.Application.pdb

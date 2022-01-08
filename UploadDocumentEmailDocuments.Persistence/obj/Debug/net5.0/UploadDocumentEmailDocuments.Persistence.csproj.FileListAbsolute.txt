@@ -1,0 +1,12 @@
+C:\Users\Ikani Stephen\source\repos\UploadDocumentEmailDocuments\UploadDocumentEmailDocuments.Persistence\bin\Debug\net5.0\UploadDocumentEmailDocuments.Persistence.deps.json
+C:\Users\Ikani Stephen\source\repos\UploadDocumentEmailDocuments\UploadDocumentEmailDocuments.Persistence\bin\Debug\net5.0\UploadDocumentEmailDocuments.Persistence.dll
+C:\Users\Ikani Stephen\source\repos\UploadDocumentEmailDocuments\UploadDocumentEmailDocuments.Persistence\bin\Debug\net5.0\ref\UploadDocumentEmailDocuments.Persistence.dll
+C:\Users\Ikani Stephen\source\repos\UploadDocumentEmailDocuments\UploadDocumentEmailDocuments.Persistence\bin\Debug\net5.0\UploadDocumentEmailDocuments.Persistence.pdb
+C:\Users\Ikani Stephen\source\repos\UploadDocumentEmailDocuments\UploadDocumentEmailDocuments.Persistence\obj\Debug\net5.0\UploadDocumentEmailDocuments.Persistence.csproj.AssemblyReference.cache
+C:\Users\Ikani Stephen\source\repos\UploadDocumentEmailDocuments\UploadDocumentEmailDocuments.Persistence\obj\Debug\net5.0\UploadDocumentEmailDocuments.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ikani Stephen\source\repos\UploadDocumentEmailDocuments\UploadDocumentEmailDocuments.Persistence\obj\Debug\net5.0\UploadDocumentEmailDocuments.Persistence.AssemblyInfoInputs.cache
+C:\Users\Ikani Stephen\source\repos\UploadDocumentEmailDocuments\UploadDocumentEmailDocuments.Persistence\obj\Debug\net5.0\UploadDocumentEmailDocuments.Persistence.AssemblyInfo.cs
+C:\Users\Ikani Stephen\source\repos\UploadDocumentEmailDocuments\UploadDocumentEmailDocuments.Persistence\obj\Debug\net5.0\UploadDocumentEmailDocuments.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\Ikani Stephen\source\repos\UploadDocumentEmailDocuments\UploadDocumentEmailDocuments.Persistence\obj\Debug\net5.0\UploadDocumentEmailDocuments.Persistence.dll
+C:\Users\Ikani Stephen\source\repos\UploadDocumentEmailDocuments\UploadDocumentEmailDocuments.Persistence\obj\Debug\net5.0\ref\UploadDocumentEmailDocuments.Persistence.dll
+C:\Users\Ikani Stephen\source\repos\UploadDocumentEmailDocuments\UploadDocumentEmailDocuments.Persistence\obj\Debug\net5.0\UploadDocumentEmailDocuments.Persistence.pdb

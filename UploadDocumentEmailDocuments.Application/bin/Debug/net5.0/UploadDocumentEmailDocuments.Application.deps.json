@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "UploadDocumentEmailDocuments.Application/1.0.0": {
+        "dependencies": {
+          "UploadDocumentEmailDocuments.Domain": "1.0.0"
+        },
+        "runtime": {
+          "UploadDocumentEmailDocuments.Application.dll": {}
+        }
+      },
+      "UploadDocumentEmailDocuments.Domain/1.0.0": {
+        "runtime": {
+          "UploadDocumentEmailDocuments.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UploadDocumentEmailDocuments.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "UploadDocumentEmailDocuments.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

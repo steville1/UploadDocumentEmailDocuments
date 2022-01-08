@@ -1,0 +1,17 @@
+C:\Users\Ikani Stephen\source\repos\UploadDocumentEmailDocuments\UploadDocumentEmailDocuments.Infrastructure\bin\Debug\net5.0\UploadDocumentEmailDocuments.Infrastructure.deps.json
+C:\Users\Ikani Stephen\source\repos\UploadDocumentEmailDocuments\UploadDocumentEmailDocuments.Infrastructure\bin\Debug\net5.0\UploadDocumentEmailDocuments.Infrastructure.dll
+C:\Users\Ikani Stephen\source\repos\UploadDocumentEmailDocuments\UploadDocumentEmailDocuments.Infrastructure\bin\Debug\net5.0\ref\UploadDocumentEmailDocuments.Infrastructure.dll
+C:\Users\Ikani Stephen\source\repos\UploadDocumentEmailDocuments\UploadDocumentEmailDocuments.Infrastructure\bin\Debug\net5.0\UploadDocumentEmailDocuments.Infrastructure.pdb
+C:\Users\Ikani Stephen\source\repos\UploadDocumentEmailDocuments\UploadDocumentEmailDocuments.Infrastructure\bin\Debug\net5.0\UploadDocumentEmailDocuments.Application.dll
+C:\Users\Ikani Stephen\source\repos\UploadDocumentEmailDocuments\UploadDocumentEmailDocuments.Infrastructure\bin\Debug\net5.0\UploadDocumentEmailDocuments.Domain.dll
+C:\Users\Ikani Stephen\source\repos\UploadDocumentEmailDocuments\UploadDocumentEmailDocuments.Infrastructure\bin\Debug\net5.0\UploadDocumentEmailDocuments.Application.pdb
+C:\Users\Ikani Stephen\source\repos\UploadDocumentEmailDocuments\UploadDocumentEmailDocuments.Infrastructure\bin\Debug\net5.0\UploadDocumentEmailDocuments.Domain.pdb
+C:\Users\Ikani Stephen\source\repos\UploadDocumentEmailDocuments\UploadDocumentEmailDocuments.Infrastructure\obj\Debug\net5.0\UploadDocumentEmailDocuments.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Ikani Stephen\source\repos\UploadDocumentEmailDocuments\UploadDocumentEmailDocuments.Infrastructure\obj\Debug\net5.0\UploadDocumentEmailDocuments.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ikani Stephen\source\repos\UploadDocumentEmailDocuments\UploadDocumentEmailDocuments.Infrastructure\obj\Debug\net5.0\UploadDocumentEmailDocuments.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Ikani Stephen\source\repos\UploadDocumentEmailDocuments\UploadDocumentEmailDocuments.Infrastructure\obj\Debug\net5.0\UploadDocumentEmailDocuments.Infrastructure.AssemblyInfo.cs
+C:\Users\Ikani Stephen\source\repos\UploadDocumentEmailDocuments\UploadDocumentEmailDocuments.Infrastructure\obj\Debug\net5.0\UploadDocumentEmailDocuments.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Ikani Stephen\source\repos\UploadDocumentEmailDocuments\UploadDocumentEmailDocuments.Infrastructure\obj\Debug\net5.0\UploadDocumentEmailDocuments.Infrastructure.csproj.CopyComplete
+C:\Users\Ikani Stephen\source\repos\UploadDocumentEmailDocuments\UploadDocumentEmailDocuments.Infrastructure\obj\Debug\net5.0\UploadDocumentEmailDocuments.Infrastructure.dll
+C:\Users\Ikani Stephen\source\repos\UploadDocumentEmailDocuments\UploadDocumentEmailDocuments.Infrastructure\obj\Debug\net5.0\ref\UploadDocumentEmailDocuments.Infrastructure.dll
+C:\Users\Ikani Stephen\source\repos\UploadDocumentEmailDocuments\UploadDocumentEmailDocuments.Infrastructure\obj\Debug\net5.0\UploadDocumentEmailDocuments.Infrastructure.pdb

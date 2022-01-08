@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "UploadDocumentEmailDocuments.Persistence/1.0.0": {
+        "runtime": {
+          "UploadDocumentEmailDocuments.Persistence.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UploadDocumentEmailDocuments.Persistence/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

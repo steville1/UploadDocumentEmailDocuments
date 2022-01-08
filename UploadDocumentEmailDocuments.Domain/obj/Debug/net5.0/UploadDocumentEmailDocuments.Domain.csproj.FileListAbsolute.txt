@@ -1,0 +1,12 @@
+C:\Users\Ikani Stephen\source\repos\UploadDocumentEmailDocuments\UploadDocumentEmailDocuments.Domain\bin\Debug\net5.0\UploadDocumentEmailDocuments.Domain.deps.json
+C:\Users\Ikani Stephen\source\repos\UploadDocumentEmailDocuments\UploadDocumentEmailDocuments.Domain\bin\Debug\net5.0\UploadDocumentEmailDocuments.Domain.dll
+C:\Users\Ikani Stephen\source\repos\UploadDocumentEmailDocuments\UploadDocumentEmailDocuments.Domain\bin\Debug\net5.0\ref\UploadDocumentEmailDocuments.Domain.dll
+C:\Users\Ikani Stephen\source\repos\UploadDocumentEmailDocuments\UploadDocumentEmailDocuments.Domain\bin\Debug\net5.0\UploadDocumentEmailDocuments.Domain.pdb
+C:\Users\Ikani Stephen\source\repos\UploadDocumentEmailDocuments\UploadDocumentEmailDocuments.Domain\obj\Debug\net5.0\UploadDocumentEmailDocuments.Domain.csproj.AssemblyReference.cache
+C:\Users\Ikani Stephen\source\repos\UploadDocumentEmailDocuments\UploadDocumentEmailDocuments.Domain\obj\Debug\net5.0\UploadDocumentEmailDocuments.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ikani Stephen\source\repos\UploadDocumentEmailDocuments\UploadDocumentEmailDocuments.Domain\obj\Debug\net5.0\UploadDocumentEmailDocuments.Domain.AssemblyInfoInputs.cache
+C:\Users\Ikani Stephen\source\repos\UploadDocumentEmailDocuments\UploadDocumentEmailDocuments.Domain\obj\Debug\net5.0\UploadDocumentEmailDocuments.Domain.AssemblyInfo.cs
+C:\Users\Ikani Stephen\source\repos\UploadDocumentEmailDocuments\UploadDocumentEmailDocuments.Domain\obj\Debug\net5.0\UploadDocumentEmailDocuments.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Ikani Stephen\source\repos\UploadDocumentEmailDocuments\UploadDocumentEmailDocuments.Domain\obj\Debug\net5.0\UploadDocumentEmailDocuments.Domain.dll
+C:\Users\Ikani Stephen\source\repos\UploadDocumentEmailDocuments\UploadDocumentEmailDocuments.Domain\obj\Debug\net5.0\ref\UploadDocumentEmailDocuments.Domain.dll
+C:\Users\Ikani Stephen\source\repos\UploadDocumentEmailDocuments\UploadDocumentEmailDocuments.Domain\obj\Debug\net5.0\UploadDocumentEmailDocuments.Domain.pdb

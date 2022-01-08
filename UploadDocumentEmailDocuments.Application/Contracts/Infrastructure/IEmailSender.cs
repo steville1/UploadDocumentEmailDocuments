@@ -3,11 +3,12 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using UploadDocumentEmailDocuments.Application.Models;
 
 namespace UploadDocumentEmailDocuments.Application.Contracts.Infrastructure
 {
     public interface IEmailSender
     {
-        Task<bool> SendEmail(Email email);
+       Task<bool> SendEmail(Email email);
     }
 }

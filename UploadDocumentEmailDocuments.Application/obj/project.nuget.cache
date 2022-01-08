@@ -1,8 +1,18 @@
 {
   "version": 2,
-  "dgSpecHash": "s6qokt7VKgn3HRr5NUuGFFZM0+rdk9vaIdeQ2JaG1ehTmqnMxUofoiHDLWtqGqjaKRlbmMJFiqM/dXdcErqvUA==",
+  "dgSpecHash": "q40yj9e23+mgoytYOn+e07SsWtCvDHXz/hCO/E/vJftwJdpApHwsUKs+Yh5PFbLoGAmb3gZeAVIbxHDCRwMZhg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Ikani Stephen\\source\\repos\\UploadDocumentEmailDocuments\\UploadDocumentEmailDocuments.Application\\UploadDocumentEmailDocuments.Application.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Ikani Stephen\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\Ikani Stephen\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
+    "C:\\Users\\Ikani Stephen\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
+    "C:\\Users\\Ikani Stephen\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\9.0.0\\mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",
+    "C:\\Users\\Ikani Stephen\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Ikani Stephen\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.0.0\\microsoft.extensions.dependencyinjection.abstractions.3.0.0.nupkg.sha512",
+    "C:\\Users\\Ikani Stephen\\.nuget\\packages\\microsoft.extensions.options\\3.0.0\\microsoft.extensions.options.3.0.0.nupkg.sha512",
+    "C:\\Users\\Ikani Stephen\\.nuget\\packages\\microsoft.extensions.primitives\\3.0.0\\microsoft.extensions.primitives.3.0.0.nupkg.sha512",
+    "C:\\Users\\Ikani Stephen\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
   "logs": []
 }
