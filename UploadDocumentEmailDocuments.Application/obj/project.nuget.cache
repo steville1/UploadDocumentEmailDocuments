@@ -1,16 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fUey7Nx9BtTawJqK8pKmJp2myZSGAmH541hotj/5UBasWr6jwu2IGpKDIkny9AOyfiubvLseAG0MHWY3QJWmTg==",
+  "dgSpecHash": "s6qokt7VKgn3HRr5NUuGFFZM0+rdk9vaIdeQ2JaG1ehTmqnMxUofoiHDLWtqGqjaKRlbmMJFiqM/dXdcErqvUA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ikani Stephen\\source\\repos\\UploadDocumentEmailDocuments.Application\\UploadDocumentEmailDocuments.Application\\UploadDocumentEmailDocuments.Application.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Ikani Stephen\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
-    "C:\\Users\\Ikani Stephen\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
-    "C:\\Users\\Ikani Stephen\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512",
-    "C:\\Users\\Ikani Stephen\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
-    "C:\\Users\\Ikani Stephen\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
-    "C:\\Users\\Ikani Stephen\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
-    "C:\\Users\\Ikani Stephen\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\Ikani Stephen\\source\\repos\\UploadDocumentEmailDocuments\\UploadDocumentEmailDocuments.Application\\UploadDocumentEmailDocuments.Application.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

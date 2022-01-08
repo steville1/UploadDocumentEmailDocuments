@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ikani Stephen\\source\\repos\\UploadDocumentEmailDocuments\\UploadDocumentEmailDocuments.Application\\UploadDocumentEmailDocuments.Application.csproj": {}
+    "C:\\Users\\Ikani Stephen\\source\\repos\\UploadDocumentEmailDocuments\\UploadDocumentEmailDocuments.Api\\UploadDocumentEmailDocuments.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ikani Stephen\\source\\repos\\UploadDocumentEmailDocuments\\UploadDocumentEmailDocuments.Application\\UploadDocumentEmailDocuments.Application.csproj": {
+    "C:\\Users\\Ikani Stephen\\source\\repos\\UploadDocumentEmailDocuments\\UploadDocumentEmailDocuments.Api\\UploadDocumentEmailDocuments.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ikani Stephen\\source\\repos\\UploadDocumentEmailDocuments\\UploadDocumentEmailDocuments.Application\\UploadDocumentEmailDocuments.Application.csproj",
-        "projectName": "UploadDocumentEmailDocuments.Application",
-        "projectPath": "C:\\Users\\Ikani Stephen\\source\\repos\\UploadDocumentEmailDocuments\\UploadDocumentEmailDocuments.Application\\UploadDocumentEmailDocuments.Application.csproj",
+        "projectUniqueName": "C:\\Users\\Ikani Stephen\\source\\repos\\UploadDocumentEmailDocuments\\UploadDocumentEmailDocuments.Api\\UploadDocumentEmailDocuments.Api.csproj",
+        "projectName": "UploadDocumentEmailDocuments.Api",
+        "projectPath": "C:\\Users\\Ikani Stephen\\source\\repos\\UploadDocumentEmailDocuments\\UploadDocumentEmailDocuments.Api\\UploadDocumentEmailDocuments.Api.csproj",
         "packagesPath": "C:\\Users\\Ikani Stephen\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ikani Stephen\\source\\repos\\UploadDocumentEmailDocuments\\UploadDocumentEmailDocuments.Application\\obj\\",
+        "outputPath": "C:\\Users\\Ikani Stephen\\source\\repos\\UploadDocumentEmailDocuments\\UploadDocumentEmailDocuments.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -45,6 +45,16 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.11.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -56,6 +66,9 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }

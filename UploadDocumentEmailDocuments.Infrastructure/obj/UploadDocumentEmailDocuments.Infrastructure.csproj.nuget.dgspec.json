@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ikani Stephen\\source\\repos\\UploadDocumentEmailDocuments\\UploadDocumentEmailDocuments.Application\\UploadDocumentEmailDocuments.Application.csproj": {}
+    "C:\\Users\\Ikani Stephen\\source\\repos\\UploadDocumentEmailDocuments\\UploadDocumentEmailDocuments.Infrastructure\\UploadDocumentEmailDocuments.Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ikani Stephen\\source\\repos\\UploadDocumentEmailDocuments\\UploadDocumentEmailDocuments.Application\\UploadDocumentEmailDocuments.Application.csproj": {
+    "C:\\Users\\Ikani Stephen\\source\\repos\\UploadDocumentEmailDocuments\\UploadDocumentEmailDocuments.Infrastructure\\UploadDocumentEmailDocuments.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ikani Stephen\\source\\repos\\UploadDocumentEmailDocuments\\UploadDocumentEmailDocuments.Application\\UploadDocumentEmailDocuments.Application.csproj",
-        "projectName": "UploadDocumentEmailDocuments.Application",
-        "projectPath": "C:\\Users\\Ikani Stephen\\source\\repos\\UploadDocumentEmailDocuments\\UploadDocumentEmailDocuments.Application\\UploadDocumentEmailDocuments.Application.csproj",
+        "projectUniqueName": "C:\\Users\\Ikani Stephen\\source\\repos\\UploadDocumentEmailDocuments\\UploadDocumentEmailDocuments.Infrastructure\\UploadDocumentEmailDocuments.Infrastructure.csproj",
+        "projectName": "UploadDocumentEmailDocuments.Infrastructure",
+        "projectPath": "C:\\Users\\Ikani Stephen\\source\\repos\\UploadDocumentEmailDocuments\\UploadDocumentEmailDocuments.Infrastructure\\UploadDocumentEmailDocuments.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\Ikani Stephen\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ikani Stephen\\source\\repos\\UploadDocumentEmailDocuments\\UploadDocumentEmailDocuments.Application\\obj\\",
+        "outputPath": "C:\\Users\\Ikani Stephen\\source\\repos\\UploadDocumentEmailDocuments\\UploadDocumentEmailDocuments.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
