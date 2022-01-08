@@ -7,7 +7,7 @@ using UploadDocumentEmailDocuments.Domain.Common;
 
 namespace UploadDocumentEmailDocuments.Domain
 {
-    public class UserPersonalDetail : BaseDomainEntity
+    public class UsersPersonalDetail : BaseDomainEntity
     {
         public string Name { get; set; }
         public string Email { get; set; }

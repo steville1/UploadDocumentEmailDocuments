@@ -1,11 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "riSLxoQ1mJ1+ECxkVqGdF0miXhNLPOpN4VSpewOOptog4JTe8VNZe7FWexfyFfJNIp55m3HgCZ+Su6ptFDMuVg==",
+  "dgSpecHash": "tnnYOQuY7GJ8knvJdY+uhbnU5MTDMJLqr4qgJM9Wxc0dkDJczsjeJJWCOc+2cgtuW1HjCZ0LvPiKDfIClB99vw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Ikani Stephen\\source\\repos\\UploadDocumentEmailDocuments\\UploadDocumentEmailDocuments.Infrastructure\\UploadDocumentEmailDocuments.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ikani Stephen\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\Ikani Stephen\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
+    "C:\\Users\\Ikani Stephen\\.nuget\\packages\\fluentvalidation\\10.3.6\\fluentvalidation.10.3.6.nupkg.sha512",
+    "C:\\Users\\Ikani Stephen\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\10.3.6\\fluentvalidation.dependencyinjectionextensions.10.3.6.nupkg.sha512",
     "C:\\Users\\Ikani Stephen\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
     "C:\\Users\\Ikani Stephen\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\9.0.0\\mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",
     "C:\\Users\\Ikani Stephen\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
