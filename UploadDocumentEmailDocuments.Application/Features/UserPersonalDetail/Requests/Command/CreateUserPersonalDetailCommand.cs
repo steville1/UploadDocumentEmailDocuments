@@ -11,6 +11,6 @@ namespace UploadDocumentEmailDocuments.Application.Features.UserPersonalDetail.R
     //class CreateUserPersonalDetailCommand
     public class CreateUserPersonalDetailCommand : IRequest<int>
     {
-        public CreateUserPersonalDetailDTO UserPersonalDetailDTO { get; set; }
+        public CreateUserPersonalDetailDTO UsersPersonalDetailDTO { get; set; }
     }
 }
