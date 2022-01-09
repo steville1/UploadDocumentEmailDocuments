@@ -8,7 +8,7 @@ using UploadDocumentEmailDocuments.Application.Contracts.Persistence;
 
 namespace UploadDocumentEmailDocuments.Application.DTOs.UserPersonalDetail.Validators
 {
-    //class CreateUserPersonalDetailDTOValidator
+    
     public class CreateUserPersonalDetailDTOValidator : AbstractValidator<CreateUserPersonalDetailDTO>
     {
         private readonly IUserPersonalDetail _userPersonalDetail;

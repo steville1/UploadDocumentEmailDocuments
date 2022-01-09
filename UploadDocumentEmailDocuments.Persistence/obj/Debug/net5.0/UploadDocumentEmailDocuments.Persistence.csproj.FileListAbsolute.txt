@@ -10,3 +10,8 @@ C:\Users\Ikani Stephen\source\repos\UploadDocumentEmailDocuments\UploadDocumentE
 C:\Users\Ikani Stephen\source\repos\UploadDocumentEmailDocuments\UploadDocumentEmailDocuments.Persistence\obj\Debug\net5.0\UploadDocumentEmailDocuments.Persistence.dll
 C:\Users\Ikani Stephen\source\repos\UploadDocumentEmailDocuments\UploadDocumentEmailDocuments.Persistence\obj\Debug\net5.0\ref\UploadDocumentEmailDocuments.Persistence.dll
 C:\Users\Ikani Stephen\source\repos\UploadDocumentEmailDocuments\UploadDocumentEmailDocuments.Persistence\obj\Debug\net5.0\UploadDocumentEmailDocuments.Persistence.pdb
+C:\Users\Ikani Stephen\source\repos\UploadDocumentEmailDocuments\UploadDocumentEmailDocuments.Persistence\bin\Debug\net5.0\UploadDocumentEmailDocuments.Application.dll
+C:\Users\Ikani Stephen\source\repos\UploadDocumentEmailDocuments\UploadDocumentEmailDocuments.Persistence\bin\Debug\net5.0\UploadDocumentEmailDocuments.Domain.dll
+C:\Users\Ikani Stephen\source\repos\UploadDocumentEmailDocuments\UploadDocumentEmailDocuments.Persistence\bin\Debug\net5.0\UploadDocumentEmailDocuments.Application.pdb
+C:\Users\Ikani Stephen\source\repos\UploadDocumentEmailDocuments\UploadDocumentEmailDocuments.Persistence\bin\Debug\net5.0\UploadDocumentEmailDocuments.Domain.pdb
+C:\Users\Ikani Stephen\source\repos\UploadDocumentEmailDocuments\UploadDocumentEmailDocuments.Persistence\obj\Debug\net5.0\UploadDocumentEmailDocuments.Persistence.csproj.CopyComplete

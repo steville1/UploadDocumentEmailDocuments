@@ -1,12 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using UploadDocumentEmailDocuments.Domain;
 
 namespace UploadDocumentEmailDocuments.Application.Contracts.Persistence
 {
-    class IFileDetail
+    public interface IFileDetail : IGenericRepository<FilesDetail>
     {
+        //Task<UsersPersonalDetail> GetUserPersonalDetailWithFiles(int id);
+       // Task<List<UsersPersonalDetail>> GetUserPersonalDetailWithFiles();
     }
 }

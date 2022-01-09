@@ -5,9 +5,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="DTOs\FileDetail\Validators\" />
-    <Folder Include="Features\FileDetail\" />
-    <Folder Include="Responses\" />
+    <Folder Include="Features\FileDetail\Handlers\Queries\" />
+    <Folder Include="Features\FileDetail\Requests\Queries\" />
   </ItemGroup>
 
   <ItemGroup>
