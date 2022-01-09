@@ -4,4 +4,17 @@
     <TargetFramework>net5.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Repositories\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="5.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\UploadDocumentEmailDocuments.Application\UploadDocumentEmailDocuments.Application.csproj" />
+    <ProjectReference Include="..\UploadDocumentEmailDocuments.Domain\UploadDocumentEmailDocuments.Domain.csproj" />
+  </ItemGroup>
+
 </Project>

@@ -1,5 +1,4 @@
 ﻿using AutoMapper;
-using FluentValidation;
 using MediatR;
 using System;
 using System.Collections.Generic;
@@ -11,10 +10,10 @@ using UploadDocumentEmailDocuments.Domain;
 using UploadDocumentEmailDocuments.Application.Contracts.Persistence;
 using UploadDocumentEmailDocuments.Application.DTOs.UserPersonalDetail.Validators;
 using UploadDocumentEmailDocuments.Application.Features.UserPersonalDetail.Requests.Command;
+using UploadDocumentEmailDocuments.Application.Exceptions;
 
 namespace UploadDocumentEmailDocuments.Application.Features.UserPersonalDetail.Handlers.Command
 {
-    //class CreateUserPersonalDetailCommandHandler
     public class CreateUserPersonalDetailCommandHandler : IRequestHandler<CreateUserPersonalDetailCommand, int>
     {
         private readonly IUserPersonalDetail _userPersonalDetail;
@@ -34,7 +33,7 @@ namespace UploadDocumentEmailDocuments.Application.Features.UserPersonalDetail.H
             var validationResult = await validator.ValidateAsync(request.UserPersonalDetailDTO);
 
             if (validationResult.IsValid == false)
-                throw new ValidationException((IEnumerable<FluentValidation.Results.ValidationFailure>)validationResult);
+                throw new ValidationException(validationResult);
 
             var user = _mapper.Map<UsersPersonalDetail>(request.UserPersonalDetailDTO);
 

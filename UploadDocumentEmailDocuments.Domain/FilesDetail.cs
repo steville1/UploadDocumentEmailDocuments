@@ -7,10 +7,10 @@ using UploadDocumentEmailDocuments.Domain.Common;
 
 namespace UploadDocumentEmailDocuments.Domain
 {
-    public class FileDetail : BaseDomainEntity
+    public class FilesDetail : BaseDomainEntity
     {
         public string UserId { get; set; }
         public string FileName { get; set; }
-        public UserPersonalDetail UserPersonalDetail { get; set; }
+        public UsersPersonalDetail UserPersonalDetail { get; set; }
     }
 }

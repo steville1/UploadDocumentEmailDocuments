@@ -7,9 +7,9 @@ using UploadDocumentEmailDocuments.Domain;
 
 namespace UploadDocumentEmailDocuments.Application.Contracts.Persistence
 {
-    public interface IUserPersonalDetail : IGenericRepository<UserPersonalDetail>
+    public interface IUserPersonalDetail : IGenericRepository<UsersPersonalDetail>
     {
-        Task<UserPersonalDetail> GetUserPersonalDetailWithFiles(int id);
-        Task<List<UserPersonalDetail>> GetUserPersonalDetailWithFiles();
+        Task<UsersPersonalDetail> GetUserPersonalDetailWithFiles(int id);
+        Task<List<UsersPersonalDetail>> GetUserPersonalDetailWithFiles();
     }
 }

@@ -14,14 +14,14 @@ namespace UploadDocumentEmailDocuments.Application.Profiles
         public MappingProfile()
         {
             #region UserPersonalDetails Mappings
-           CreateMap<UserPersonalDetail, UserPersonalDetailDTO>().ReverseMap();
-           // CreateMap<LeaveRequest, LeaveRequestListDto>().ReverseMap();
-            
+            CreateMap<UsersPersonalDetail, UserPersonalDetailDTO>().ReverseMap();
+            CreateMap<UsersPersonalDetail, CreateUserPersonalDetailDTO>().ReverseMap();
+
             #endregion UserPersonalDetails
 
-           // CreateMap<LeaveAllocation, LeaveAllocationDto>().ReverseMap();
-           // CreateMap<LeaveAllocation, CreateLeaveAllocationDto>().ReverseMap();
-           
+            // CreateMap<LeaveAllocation, LeaveAllocationDto>().ReverseMap();
+            // CreateMap<LeaveAllocation, CreateLeaveAllocationDto>().ReverseMap();
+
         }
     }
 }

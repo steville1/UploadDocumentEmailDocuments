@@ -13,6 +13,6 @@ namespace UploadDocumentEmailDocuments.Domain
         public string Email { get; set; }
         public string Phone { get; set; }
         public string Age { get; set; }
-        public ICollection<FileDetail> fileDetails { get; set; }
+        public ICollection<FilesDetail> fileDetails { get; set; }
     }
 }
