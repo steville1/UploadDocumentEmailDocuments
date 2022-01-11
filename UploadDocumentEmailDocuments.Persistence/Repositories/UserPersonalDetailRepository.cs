@@ -18,6 +18,16 @@ namespace UploadDocumentEmailDocuments.Persistence.Repositories
         {
             _dbContext = dbContext;
         }
+
+        public async Task<UsersPersonalDetail> GetUserPersonalByEmailAndReferenceNo(string email, string referenceNo)
+        {
+            var leaveAllocation = await _dbContext.UsersPersonalDetail
+               .Include(q => q.fileDetails)
+               .FirstOrDefaultAsync(q => q.Email == email && q.ReferenceNumber==referenceNo);
+
+            return leaveAllocation;
+        }
+
         public async Task<UsersPersonalDetail> GetUserPersonalDetailWithFiles(int id)
         {
             var leaveAllocation = await _dbContext.UsersPersonalDetail

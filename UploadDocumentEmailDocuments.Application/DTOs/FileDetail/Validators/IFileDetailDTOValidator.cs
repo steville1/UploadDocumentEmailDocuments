@@ -10,12 +10,11 @@ namespace UploadDocumentEmailDocuments.Application.DTOs.FileDetail.Validators
 {
     public class IFileDetailDTOValidator : AbstractValidator<IFileDetailDTO>
     {
-        private readonly IFileDetail _fileDetail;
+        
 
-        public IFileDetailDTOValidator(IFileDetail fileDetail)
+        public IFileDetailDTOValidator()
         {
-            _fileDetail = fileDetail;
-            RuleFor(p => p.UserId).NotEmpty().WithMessage("UserId Must Be Entered");
+             RuleFor(p => p.UsersPersonalDetailId).NotEmpty().WithMessage("UserId Must Be Entered");
         }
     }
 }

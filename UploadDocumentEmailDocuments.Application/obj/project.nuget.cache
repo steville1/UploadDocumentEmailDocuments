@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "UUEEs6rDvBJjDmylOpwgdA4yk/DoXP65pLZTS7I/8uPUxrnSk0RrkBpnscnS2MQx8ce+BjhiSE0Qu53lh2poCw==",
+  "dgSpecHash": "0fzizOa7sIpRDVNcxFVVEqLzptRmK4Yrvnl+XmgYSw/QDNeKg5MZWl2T3mb7C1omnIrzW7JwanQaywjC9d0raA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Ikani Stephen\\source\\repos\\UploadDocumentEmailDocuments\\UploadDocumentEmailDocuments.Application\\UploadDocumentEmailDocuments.Application.csproj",
   "expectedPackageFiles": [
@@ -10,10 +10,12 @@
     "C:\\Users\\Ikani Stephen\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\10.3.6\\fluentvalidation.dependencyinjectionextensions.10.3.6.nupkg.sha512",
     "C:\\Users\\Ikani Stephen\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
     "C:\\Users\\Ikani Stephen\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\9.0.0\\mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",
+    "C:\\Users\\Ikani Stephen\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.13\\microsoft.aspnetcore.http.features.5.0.13.nupkg.sha512",
     "C:\\Users\\Ikani Stephen\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\Ikani Stephen\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.0.0\\microsoft.extensions.dependencyinjection.abstractions.3.0.0.nupkg.sha512",
     "C:\\Users\\Ikani Stephen\\.nuget\\packages\\microsoft.extensions.options\\3.0.0\\microsoft.extensions.options.3.0.0.nupkg.sha512",
-    "C:\\Users\\Ikani Stephen\\.nuget\\packages\\microsoft.extensions.primitives\\3.0.0\\microsoft.extensions.primitives.3.0.0.nupkg.sha512",
+    "C:\\Users\\Ikani Stephen\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
+    "C:\\Users\\Ikani Stephen\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512",
     "C:\\Users\\Ikani Stephen\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
   ],
   "logs": []

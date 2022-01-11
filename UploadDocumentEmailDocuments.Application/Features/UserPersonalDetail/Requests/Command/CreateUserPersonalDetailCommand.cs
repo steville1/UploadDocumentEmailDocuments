@@ -5,12 +5,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using UploadDocumentEmailDocuments.Application.DTOs.UserPersonalDetail;
+using UploadDocumentEmailDocuments.Application.Responses;
 
 namespace UploadDocumentEmailDocuments.Application.Features.UserPersonalDetail.Requests.Command
 {
-    //class CreateUserPersonalDetailCommand
-    public class CreateUserPersonalDetailCommand : IRequest<int>
+    
+    public class CreateUserPersonalDetailCommand : IRequest<BaseCommandResponse>
     {
-        public CreateUserPersonalDetailDTO UsersPersonalDetailDTO { get; set; }
+        public CreateUserPersonalDetailDTO UserPersonalDetailDTO { get; set; }
     }
 }

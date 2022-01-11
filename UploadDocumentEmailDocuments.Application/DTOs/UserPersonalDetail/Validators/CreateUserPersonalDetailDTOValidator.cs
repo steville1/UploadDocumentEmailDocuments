@@ -11,12 +11,10 @@ namespace UploadDocumentEmailDocuments.Application.DTOs.UserPersonalDetail.Valid
     
     public class CreateUserPersonalDetailDTOValidator : AbstractValidator<CreateUserPersonalDetailDTO>
     {
-        private readonly IUserPersonalDetail _userPersonalDetail;
-
-        public CreateUserPersonalDetailDTOValidator(IUserPersonalDetail userPersonalDetail)
-        {
-            _userPersonalDetail = userPersonalDetail;
-            Include(new CreateUserPersonalDetailDTOValidator(_userPersonalDetail));
-        }
+      public CreateUserPersonalDetailDTOValidator()
+       {          
+           Include(new IUserPersonalDetailDTOValidator());
+       }       
     }
+   
 }

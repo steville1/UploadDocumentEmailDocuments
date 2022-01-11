@@ -8,9 +8,11 @@ namespace UploadDocumentEmailDocuments.Application.DTOs.UserPersonalDetail
 {
     public interface IUserPersonalDetailDTO
     {
+        public string ReferenceNumber { get; set; }
         public string Name { get; set; }
         public string Email { get; set; }
         public string Phone { get; set; }
         public string Age { get; set; }
+      
     }
 }

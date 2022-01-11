@@ -9,8 +9,8 @@ namespace UploadDocumentEmailDocuments.Domain
 {
     public class FilesDetail : BaseDomainEntity
     {
-        public string UserId { get; set; }
         public string FileName { get; set; }
-        public UsersPersonalDetail UserPersonalDetail { get; set; }
+        public int UsersPersonalDetailId { get; set; }
+        public UsersPersonalDetail UsersPersonalDetail { get; set; }
     }
 }

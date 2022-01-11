@@ -11,12 +11,9 @@ namespace UploadDocumentEmailDocuments.Application.DTOs.FileDetail.Validators
     
     public class CreateFileDetailDTOValidator : AbstractValidator<CreateFileDetailDTO>
     {
-        private readonly IFileDetail _fileDetail;
-
-        public CreateFileDetailDTOValidator(IFileDetail fileDetail)
-        {
-            _fileDetail = fileDetail;
-            Include(new CreateFileDetailDTOValidator(_fileDetail));
+        public CreateFileDetailDTOValidator()
+        {          
+            Include(new IFileDetailDTOValidator());
         }
     }
 }

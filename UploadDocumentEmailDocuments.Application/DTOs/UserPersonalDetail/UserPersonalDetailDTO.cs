@@ -11,10 +11,12 @@ namespace UploadDocumentEmailDocuments.Application.DTOs.UserPersonalDetail
 {
     public class UserPersonalDetailDTO : BaseDto
     {
+        public string ReferenceNumber { get; set; }
         public string Name { get; set; }
         public string Email { get; set; }
         public string Phone { get; set; }
         public string Age { get; set; }
-        public ICollection<FileDetailDTO> fileDetailsDTO { get; set; }
+        public ICollection<FileDetailDTO> fileDetails { get; set; }
+       
     }
 }

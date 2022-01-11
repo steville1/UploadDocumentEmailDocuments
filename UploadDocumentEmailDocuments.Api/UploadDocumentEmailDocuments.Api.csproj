@@ -7,12 +7,24 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.NewtonsoftJson" Version="5.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="5.0.0">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
     <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.11.1" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
     <PackageReference Include="Swashbuckle.AspNetCore" Version="5.6.3" />
   </ItemGroup>
 
   <ItemGroup>
     <ProjectReference Include="..\UploadDocumentEmailDocuments.Application\UploadDocumentEmailDocuments.Application.csproj" />
+    <ProjectReference Include="..\UploadDocumentEmailDocuments.Infrastructure\UploadDocumentEmailDocuments.Infrastructure.csproj" />
+    <ProjectReference Include="..\UploadDocumentEmailDocuments.Persistence\UploadDocumentEmailDocuments.Persistence.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="documents\" />
   </ItemGroup>
 
 </Project>

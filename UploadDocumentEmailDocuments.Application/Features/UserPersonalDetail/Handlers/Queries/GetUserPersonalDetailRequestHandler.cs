@@ -27,7 +27,8 @@ namespace UploadDocumentEmailDocuments.Application.Features.UserPersonalDetail.H
         public async Task<UserPersonalDetailDTO> Handle(GetUserPersonalDetailRequest request, CancellationToken cancellationToken)
         {
             var user = await _userPersonalDetail.GetUserPersonalDetailWithFiles(request.Id);
-            return _mapper.Map<UserPersonalDetailDTO>(user);
+            var map = _mapper.Map<UserPersonalDetailDTO>(user);
+            return map;
         }
     }
 }

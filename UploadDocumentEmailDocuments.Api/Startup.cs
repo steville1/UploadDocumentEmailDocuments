@@ -11,6 +11,10 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using UploadDocumentEmailDocuments.Application;
+using UploadDocumentEmailDocuments.Persistence;
+using UploadDocumentEmailDocuments.Infrastructure;
+
 
 namespace UploadDocumentEmailDocuments.Api
 {
@@ -26,8 +30,12 @@ namespace UploadDocumentEmailDocuments.Api
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-
+            services.ConfigureApplicationServices();
+            services.ConfigureInfrastructureServices(Configuration);
+            services.ConfigurePersistenceServices(Configuration);
+           
             services.AddControllers();
+            services.AddControllers().AddNewtonsoftJson();
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "UploadDocumentEmailDocuments.Api", Version = "v1" });
@@ -44,7 +52,7 @@ namespace UploadDocumentEmailDocuments.Api
                 app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "UploadDocumentEmailDocuments.Api v1"));
             }
 
-            app.UseHttpsRedirection();
+           // app.UseHttpRedirection();
 
             app.UseRouting();
 

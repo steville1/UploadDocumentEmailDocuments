@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using UploadDocumentEmailDocuments.Application.DTOs.FileDetail;
 using UploadDocumentEmailDocuments.Application.DTOs.UserPersonalDetail;
 using UploadDocumentEmailDocuments.Domain;
 
@@ -19,8 +20,8 @@ namespace UploadDocumentEmailDocuments.Application.Profiles
 
             #endregion UserPersonalDetails
 
-            // CreateMap<LeaveAllocation, LeaveAllocationDto>().ReverseMap();
-            // CreateMap<LeaveAllocation, CreateLeaveAllocationDto>().ReverseMap();
+            CreateMap<FilesDetail, FileDetailDTO>().ReverseMap();
+            CreateMap<FilesDetail, CreateFileDetailDTO>().ReverseMap();
 
         }
     }

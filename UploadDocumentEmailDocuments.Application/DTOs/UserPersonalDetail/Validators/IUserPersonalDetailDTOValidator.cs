@@ -11,11 +11,11 @@ namespace UploadDocumentEmailDocuments.Application.DTOs.UserPersonalDetail.Valid
     
     public class IUserPersonalDetailDTOValidator : AbstractValidator<IUserPersonalDetailDTO>
     {
-        private readonly IUserPersonalDetail _userPersonalDetail;
+        //private readonly IUserPersonalDetail _userPersonalDetail;
 
-        public IUserPersonalDetailDTOValidator(IUserPersonalDetail userPersonalDetail)
+        public IUserPersonalDetailDTOValidator(/**IUserPersonalDetail userPersonalDetail**/)
         {
-            _userPersonalDetail = userPersonalDetail;
+           // _userPersonalDetail = userPersonalDetail;
             RuleFor(p => p.Name).NotEmpty().WithMessage("Name must be enter");
             RuleFor(p => p.Email).EmailAddress().NotEmpty().WithMessage("Field must be email value and must be entered");
 
