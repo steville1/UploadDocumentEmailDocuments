@@ -34,7 +34,7 @@ namespace UploadDocumentEmailDocuments.Application.Features.UserPersonalDetail.H
             var response = new BaseCommandResponse();
             var validator = new CreateUserPersonalDetailDTOValidator();
             var validationResult = await validator.ValidateAsync(request.UserPersonalDetailDTO);
-            //if()
+            
             if (!validationResult.IsValid)
             {
                 response.Success = false;

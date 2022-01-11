@@ -46,6 +46,7 @@ namespace UploadDocumentEmailDocuments.Api.Controllers
         [HttpGet]
         public async Task<ActionResult<UserPersonalDetailDTO>> GetByEmailAddressAndReferenceNo(string email, string refNo)
         {
+            //TODO: Get the Link of the documentFilename and create a method for downloading a file
             var user = await _mediator.Send(new GetUserPersonalDetailByEmailAndRefNoRequest { Email = email, ReferenceNumber = refNo });
             return Ok(user);
         }
@@ -64,6 +65,7 @@ namespace UploadDocumentEmailDocuments.Api.Controllers
                     Phone = Phone
             };
             //To enhance this functionality ensure the photos are stored in the cloud AWS S3 or Azure
+            
             var documentList = FileUploadHelper.MultipleFileUpload(files);
             
             var commandUsers = new CreateUserPersonalDetailCommand { UserPersonalDetailDTO = userPersonalDetail };
@@ -79,6 +81,9 @@ namespace UploadDocumentEmailDocuments.Api.Controllers
                 };
                 var commandFiles = new CreateFileDetailCommand { FileDetailDTO = fileDetail };
                 await _mediator.Send(commandFiles);
+
+                //TODO: Get the filenames stored in  documentList and send  to the emailSender configured in Infrastructure class layer
+                //TODO: Add Rabbit MQ .yml file to project
             }
 
             return Ok(response);
