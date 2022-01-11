@@ -21,28 +21,28 @@ namespace UploadDocumentEmailDocuments.Persistence.Repositories
 
         public async Task<UsersPersonalDetail> GetUserPersonalByEmailAndReferenceNo(string email, string referenceNo)
         {
-            var leaveAllocation = await _dbContext.UsersPersonalDetail
+            var users = await _dbContext.UsersPersonalDetail
                .Include(q => q.fileDetails)
                .FirstOrDefaultAsync(q => q.Email == email && q.ReferenceNumber==referenceNo);
 
-            return leaveAllocation;
+            return users;
         }
 
         public async Task<UsersPersonalDetail> GetUserPersonalDetailWithFiles(int id)
         {
-            var leaveAllocation = await _dbContext.UsersPersonalDetail
+            var users = await _dbContext.UsersPersonalDetail
                .Include(q => q.fileDetails)
                .FirstOrDefaultAsync(q => q.Id == id);
 
-            return leaveAllocation;
+            return users;
         }
 
         public async Task<List<UsersPersonalDetail>> GetUserPersonalDetailWithFiles()
         {
-            var leaveAllocations = await _dbContext.UsersPersonalDetail
+            var users = await _dbContext.UsersPersonalDetail
                .Include(q => q.fileDetails)
                .ToListAsync();
-            return leaveAllocations;
+            return users;
         }
     }
 }
